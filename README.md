@@ -23,7 +23,7 @@ The first thing that struck me when analyzing the problem was that the purpose o
 ##### Technical Explanation:
 Most coding challenges involve optimization of resources and how to accomplish a known task with fewer resources, the OP is clarifying that this is a different type of challenge. This challenge involves accomplishing the known task using more resources. Specifically with regard to code length.
 ##### Semantic Explanation:
-The OP is trying to begin to convey the message that the goal here obviously isn’t the results of the code. There’s value in the artistic effort too. It seems that the OP is requesting an artistic portrait of a simple coding task.\
+The OP is trying to begin to convey the message that the goal here obviously isn’t the results of the code. There’s value in the artistic effort too. It seems that the OP is requesting an artistic portrait of a simple coding task.
 
 -------------
 
@@ -77,7 +77,7 @@ The OP is sharing that he enjoys this kind of art, and out of lack of something 
 ##### Technical Explanation:
 To clarify the qualification, it is not sufficient that each line be original. Each line of code must be necessary for the code to run. If the line is deleted and the code still runs, it doesn’t count. This further implies that the winner will be based on a tallied qualified lines of code.
 ##### Semantic Explanation:
-Originality isn’t enough. This art needs to satisfy the shallow level, the deep level, and everything between. Also, the winner will be based on originality alone, lines of code that aren’t original don’t help
+Originality isn’t enough. This art needs to satisfy the shallow level, the deep level, and everything between. Also, the winner will be based on originality alone, lines of code that aren’t original don’t help.
 
 
 -------------
