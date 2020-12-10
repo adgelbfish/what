@@ -1,4 +1,7 @@
 The longest piece of code I can write to print "Hello World" on the terminal.
+
+![Screenshot of original post by u/ZachHarr2002](Screenshot.png)
+
 # OP: u/ZachHarr2002
 
 -----------
