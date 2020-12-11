@@ -8,10 +8,13 @@ The longest piece of code I can write to print "Hello World" on the terminal.
 
 # Backstory:
 The link to this post (https://www.reddit.com/r/Python/comments/k7hv95/what_is_the_longest_piece_of_code_you_can_write/) was posted to one of my social circles, and it caught my attention, mostly due to the bizarre looking nature of the title. So I clicked it, read it, laughed, but was left intrigued. So I came back to it, and eventually decided to create a solution. The most interesting part to me and probably the deciding factor in me deciding to work on it was the $1 gift card to Taco Bell, that I can’t use anyway because Taco Bell (at least to my knowledge) does not serve kosher food. Without further ado…
+
 # General Analysis and Introduction:
 The first thing that struck me when analyzing the problem was that the purpose of the code is obviously not for the output that the computer would spit out, rather for the reader. So I concluded it must be some sort of art form. In order to understand exactly what the author of the challenge meant, I needed to read the post again. And again. I would read, experiment, then read, then experiment, and with each iteration new understandings would pop into my head. While the result is far from perfect, with each iteration it gets closer. And now I present my solution to and initial analysis of the post.
 
-P.S. As it is art, it is up to reader to decide what it represents. Feel free to ask me any questions if you don't understand anything.
+P.S. As it is art, it is up to reader to decide what it represents. Feel free to ask me any questions if you feel like it. Although I will try to answer them to the best of my ability, as I am not perfect I may not have answers when you want them. But I'm happy to help where I can.
+
+Enjoy!
 
 -------------
 
