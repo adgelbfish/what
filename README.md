@@ -11,6 +11,8 @@ The link to this post (https://www.reddit.com/r/Python/comments/k7hv95/what_is_t
 # General Analysis and Introduction:
 The first thing that struck me when analyzing the problem was that the purpose of the code is obviously not for the output that the computer would spit out, rather for the reader. So I concluded it must be some sort of art form. In order to understand exactly what the author of the challenge meant, I needed to read the post again. And again. I would read, experiment, then read, then experiment, and with each iteration new understandings would pop into my head. While the result is far from perfect, with each iteration it gets closer. And now I present my solution to and initial analysis of the post.
 
+P.S. As it is art, it is up to reader to decide what it represents. Feel free to ask me any questions if you don't understand anything.
+
 -------------
 
 # Breakdown:
