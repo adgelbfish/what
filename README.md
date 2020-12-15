@@ -14,6 +14,8 @@ The first thing that struck me when analyzing the problem was that the purpose o
 
 P.S. As it is art, it is up to reader to decide what it represents. Feel free to ask me any questions if you feel like it. Although I will try to answer them to the best of my ability, as I am not perfect I may not have answers when you want them. But I'm happy to help where I can.
 
+P.P.S. If you want to verify that the code does its job, you can check the github action I created to run it. This way you don't need to run any code on your machine. Just look at the console output in the action.
+
 Enjoy!
 
 -------------
