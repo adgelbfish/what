@@ -18,6 +18,9 @@ P.P.S. If you want to verify that the code does its job, you can check the githu
 
 P.P.P.S. In case it's hard for you to download or view the code, it is one million, two hundred and forty-three thousand, four hundred and forty five lines. In short, 1,243,445 lines. 
 
+P.P.P.P.S If you can't or don't want to go to the github action results, here's my screenshot:
+![Screenshot of github action results](Screen%20Shot%202020-12-15%20at%206.18.44%20AM.png)
+
 Enjoy!
 
 -------------
