@@ -16,6 +16,8 @@ P.S. As it is art, it is up to reader to decide what it represents. Feel free to
 
 P.P.S. If you want to verify that the code does its job, you can check the github action I created to run it. This way you don't need to run any code on your machine. Just look at the console output in the action.
 
+P.P.P.S. In case it's hard for you to download or view the code, it is one million, two hundred and forty-three thousand, four hundred and forty five lines. In short, 1,243,445 lines. 
+
 Enjoy!
 
 -------------
